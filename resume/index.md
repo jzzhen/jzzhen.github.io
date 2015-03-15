@@ -34,18 +34,18 @@ _**Software Developer - Since November 2014**_
 
 Designed, and implemented factory's automating system, which include the following:
 
- * Analyzed and summarized work flows on site, communicated with corresponding person and identified requirements,  iterative designed the automating system.
- * Developed Adobe extends scripts and actions of Illustrator as tool-kit to designers to increase efficiency and reduce mistakes caused by human being.
- * Implemented automation from OrderArrival to Print(included) using Javascript, Illustrator, Golang and MySQL.
- * Implemented website to provide Order tracking and controlling ability using Flask, Python, MySql, jQuery, Bootstrap, Javascript.
- * Implemented tools that replaces human being to operate 3rd-party software(Postprinter) automatically by using Python, Win32py and Sikuli.
+* Analyzed and summarized work flows on site, communicated with corresponding person and identified requirements,  iterative designed the automating system.
+* Developed Adobe extends scripts and actions of Illustrator as tool-kit to designers to increase efficiency and reduce mistakes caused by human being.
+* Implemented automation from OrderArrival to Print(included) using Javascript, Illustrator, Golang and MySQL.
+* Implemented website to provide Order tracking and controlling ability using Flask, Python, MySql, jQuery, Bootstrap, Javascript.
+* Implemented tools that replaces human being to operate 3rd-party software(Postprinter) automatically by using Python, Win32py and Sikuli.
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
 
 * Led development of fraud prevention platform that supports more than 100 million concurrent game players
 * Implemented low latency status query service using C++ on Linux, which performs 100,000 queries/sec with single machine
-* Automated compiling, deploying, configuration process of distributed system running on 100 machines
+* Automated compiling, deploying, configuration process of distributed system running on more than 100 machines
 * Enhanced performance, stability of account protection system using C++, Lua, Redis
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
@@ -55,7 +55,6 @@ _**Software Developer - September 2010 to September 2012**_
 * Developed cross-platform downloading tool using Python and lxml.
 * Developed servers that defend security of user account using primarily C++ on Linux.
 * Maintained and monitored production environment using bash script on Linux
-
   
 ### [Possibility Space](http://www.linkedin.com/company/possibility-space), Beijing, China
 _**Software Developer - January 2008 to August 2010**_  
@@ -63,24 +62,13 @@ _**Software Developer - January 2008 to August 2010**_
 Participated in both server-side(Windows) and client-side(Windows) development of Warrior Epic(an MMORPG game)
 
 * Designed Lua-based system that allows designers applying game rules and levels 
-* Provided training and support to game designers on how to using game level system
 * Improved resource loading module that reduces network traffic by approx. 60%
 
 ### [Shanda (NASDAQ:GAME)](http://www.shandagames.com/us-en/index.html), Shanghai, China
 _**Software Developer - September 2003 to March 2007**_
 
-Participated in the server-side development of SNDA Rich(an MMOG game) with C++ in Windows
-
-* Developed network module of server-side using Windows IOCP socket
-* Developed player matching module that pairs similar players based on their role levels
-* Implemented game map building module that processes xml based configuration files
-* Developed Python-based module that manages visual effects of game equipments
-* Developed basic AI that automatically plays game for disconnected players
-
-Participated in the server-side development of [Hero Age](http://xyx.sdo.com/web4/guide/guide.asp)(an MMORPG game) in Linux and Windows
-
-* Ported C++ based Game Battle Server from Linux to Windows
-* Fixed data synchronization issue caused by network latency between different servers
+* Participated in the server-side development of SNDA Rich(an MMOG game) with C++, Python in Windows
+* Participated in the server-side development of [Hero Age](http://xyx.sdo.com/web4/guide/guide.asp)(an MMORPG game) with C++ in Linux and Windows
 
 ## EDUCATION
 Master's degree, Computer Software Engineering  
