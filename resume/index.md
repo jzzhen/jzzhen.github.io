@@ -23,7 +23,7 @@ Linux, Windows, GAE(Google App Engine), Android
 **Database:**
 MySQL, Redis, SQLite  
 **FrameWork/Libs:**
-Django, Boost, jQuery, Bootstrap, wxPython, MFC, Flask   
+Boost, Django, jQuery, Bootstrap, wxPython, MFC, Flask   
 **Tools:**
 Git, SVN, Mercurial(hg), Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Firebug, Fiddler 
 
@@ -35,7 +35,7 @@ _**Software Developer - Since November 2014**_
 Designed, and implemented factory's automating system, which include the following:
 
 * Analyzed and summarized work flows on site, communicated with corresponding person and identified requirements,  iterative designed the automating system.
-* Developed Adobe extends scripts and actions of Illustrator as tool-kit to designers to increase efficiency and reduce mistakes caused by human being.
+* Developed Adobe extends scripts and actions of Illustrator as tool-kit for designers to increase efficiency and reduce mistakes caused by human being.
 * Implemented automation from OrderArrival to Print(included) using Javascript, Illustrator, Golang and MySQL.
 * Implemented website to provide Order tracking and controlling ability using Flask, Python, MySql, jQuery, Bootstrap, Javascript.
 * Implemented tools that replaces human being to operate 3rd-party software(Postprinter) automatically by using Python, Win32py and Sikuli.
