@@ -38,7 +38,7 @@ _**Software Developer - Since November 2014**_
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
 
-* Participated in designing and development of Fraud Prevention Platform for Tencent Open Platform to support fraud prevention for more than 100 million concurrent game players
+* Participated in design and development of Fraud Prevention service that support more than 100 million concurrent game players on QQ Platform
 * Collaborated with IM-Department(QQ account) and Tencent Security Center that improved security of user virtual property
 * Implemented low latency status query service using C++ on Linux, which performs 100,000 queries/sec with single machine
 * Automated processes of compiling, deploying, configuration for more than 100 machines of distributed system
@@ -49,12 +49,11 @@ _**Software Developer - September 2010 to September 2012**_
 
 * Developed a set of servers that defend security of user account and user virtual property using C++ on Linux
 * Designed algorithm that discovers gaming cheating tools, which involves various technologies and tools (Python, lxml, HTTP, HTML, CSS, JavaScript, Firebug, Fiddler)
-* 定位了一个困扰开发团队近半年的bug，这个bug会在游戏和服务器之间以低概率导致数据延时和乱序
 * Maintained and monitored production environment using bash script on Linux
 
  
 ### Network Information Security Engineering Center of [School of Software at BIT](http://ss.bit.edu.cn/HomeWeb/Index/English.html)(Beijing Institute of Technology)
-_**Software Developer - May 2009 to August 2010**_  
+_**Senior Software Developer - May 2009 to August 2010**_  
 
 * Designed Intrusion Detection System that detects instrusion based on data sniffed from network
 * Implemented rule execution module using C++ and Lua on Linux
