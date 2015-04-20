@@ -114,4 +114,4 @@ Bachelor's degree, Environmental Science
 * _JiangZhenzhen. 2013. A method to improve customer's experience and security of online shopping. CN201310055849.4_
 * _ZenXing, YangRonghui, JiangZhenzhen, ChengMoye, GuoXiao. 2013. A general and improved verification method to reduce success rate of phishing attack. CN201310035457.1_
 
-## References Available Upon Request
+## REFERENCES AVAILABLE UPON REQUEST
