@@ -77,7 +77,7 @@ _**Software Developer - July 2005 to March 2007**_
 Server-side development of SNDA Rich(an MMOG game) with C++ in Windows
 
 * Developed network module of server-side using Windows IOCP socket
-* Developed player matching module that pairs similar players based on their role levels
+* Developed player matching module that pairs similar players based on their role's level
 * Implemented game map building module that processes xml based configuration files
 * Developed Python-based module that manages visual effects of game equipments
 * Developed basic AI that automatically plays game for disconnected players
