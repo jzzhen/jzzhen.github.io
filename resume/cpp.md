@@ -32,15 +32,15 @@ Git, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Fire
 _**Software Developer - Since November 2014**_ 
 
 * Created web application that tracks and controls custom orders using Flask, Python, Query, Bootstrap, Javascript
-* Improved team productivity by automating clothing customization process using Javascript, C++, Golang and MySQL
+* Improved team productivity by automating clothing customization process using Javascript, C++, Go and MySQL
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
 
-* Led development of Fraud Prevention service that support more than 10 million concurrent game players on QQ Platform
+* Led development of Fraud Prevention service that support more than 10 million concurrent game players on Tencent Open Platform
 * Collaborated with IM-Department(QQ account) and Tencent Security Center that improved security of user virtual property
 * Implemented low latency status query service using C++ on Linux, which performs 100,000 queries/sec with single machine
-* Automated processes of compiling, deploying, configuration for more than 100 machines of distributed system
+* Automated processes of deploying, configuration for more than 100 machines of distributed system
 * Enhanced performance, stability of user behavior statistic system using C++, Lua, Redis
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
@@ -113,3 +113,5 @@ Bachelor's degree, Environmental Science
 * _HuChanzhen, WangKunsheng, JiangZhenzhen. 2012. Detection Method For Periodic Subsequence In Network Data Stream. CN201110186370.5_
 * _JiangZhenzhen. 2013. A method to improve customer's experience and security of online shopping. CN201310055849.4_
 * _ZenXing, YangRonghui, JiangZhenzhen, ChengMoye, GuoXiao. 2013. A general and improved verification method to reduce success rate of phishing attack. CN201310035457.1_
+
+## References Available Upon Request
