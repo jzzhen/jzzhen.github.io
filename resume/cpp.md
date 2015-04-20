@@ -8,9 +8,8 @@
 
 ## SUMMARY
 * 9 years experience in C/C++ programming
-* Hands-on skills in various languages such as Python, Lua, Javascript
+* Hands-on skills in various languages such as Python, Lua, Go
 * Strong background in developing large scale high performance online gaming system
-* In-depth understanding of design patterns and software architecture principles
 * Familiar with modern software development methods (Agile, Scrum)
 * Superb analytical and problem-solving skills
 
@@ -38,7 +37,7 @@ _**Software Developer - Since November 2014**_
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
 
-* Participated in design and development of Fraud Prevention service that support more than 100 million concurrent game players on QQ Platform
+* Led development of Fraud Prevention service that support more than 10 million concurrent game players on QQ Platform
 * Collaborated with IM-Department(QQ account) and Tencent Security Center that improved security of user virtual property
 * Implemented low latency status query service using C++ on Linux, which performs 100,000 queries/sec with single machine
 * Automated processes of compiling, deploying, configuration for more than 100 machines of distributed system
