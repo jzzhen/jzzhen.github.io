@@ -31,7 +31,7 @@ Git, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Fire
 ### [Dynamic Team Sports](http://dynamicteamsports.com/), Toronto, Canada
 _**Software Developer - Since November 2014**_ 
 
-* Created web application that tracks and controls custom orders using Flask, Python, Query, Bootstrap, Javascript
+* Created web application that tracks and controls custom orders using Flask, Python, jQuery, Bootstrap, Javascript
 * Improved team productivity by automating clothing customization process using Javascript, C++, Go and MySQL
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
