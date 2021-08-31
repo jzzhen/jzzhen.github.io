@@ -4,35 +4,55 @@
 
  * <zhenzhen.jiang@gmail.com>
  * 647-980-7232
- * 133 Alpaca Dr., Richmond Hill, ON, L4E 0R2
+ * 62 Dovetail Dr., Richmond Hill, ON, L4E 5A9
 
 ## SUMMARY
-* 9 years experience in C/C++ programming
-* Hands-on skills in various languages such as Python, Lua, Go
-* Strong background in developing large scale high performance online gaming system
-* Familiar with modern software development methods (Agile, Scrum)
+* 15 years experience in C/C++ language programming
+* Strong background in developing large scale high performance distributed system
+* In-depth understanding of design patterns and software architecture principles
+* Years of full stack development experience
+* Hands-on skills in various languages such as JavaScript Java, Python, Lua
 * Superb analytical and problem-solving skills
 
 ## TECHNICAL SKILLS
 
 **Languages:**
-C/C++, Python, Lua, JavaScript, Go, Java, Shell Script, CSS, HTML  
+C/C++, JavaScript, Java, Python, Lua, CSS, HTML  
 **Platforms:**
-Windows, Linux, GAE(Google App Engine), Android  
+Windows, Linux, Android  
 **Database:**
-MySQL, Redis, SQLite  
+MySQL, DB2, MongoDB, Redis, SQLite  
 **FrameWork/Libs:**
-Boost, Django, jQuery, Bootstrap, wxPython, MFC, Flask   
+React, Express, Boost, Django, Bootstrap, wxPython, MFC, Flask  
 **Tools:**
-Git, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Firebug, Fiddler 
+Git, Visual Code, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Fiddler 
 
 ## EXPERIENCE
 
-### [Dynamic Team Sports](http://dynamicteamsports.com/), Toronto, Canada
-_**Software Developer - Since November 2014**_ 
+### [The Stars Group](https://www.starsgroup.com/), Toronto, Canada
+_**Technical Lead, Platform since May 2021 – Present**_
+* Review given business requirements, perform system analysis and solution design, come up with detailed design documents of the changes needed to implement the solutions.
+* Actively participate in code reviews sharing and enforcing best practice to improve codebase quality efficiency and security.
+* Mentor and guide developers by providing quality coaching and ensuring proper execution of their tasks.
 
-* Created web application that tracks and controls custom orders using Flask, Python, jQuery, Bootstrap, Javascript
-* Improved team productivity by automating clothing customization process using Javascript, C++, Go and MySQL
+* Implement assigned architectural and platform tasks for projects pertaining Server Architecture and the wider shared technology roadmap
+* Carry out assigned R&D work to produce POCs needed to assist decision making on the adoption of new technologies and frameworks.
+* Participate in the rotation of 911 and server restart duties
+* Participate in technical interviews and subsequent evaluation fo job applicants.
+
+_**Team Lead, Platform Development - February 2020 to May 2021**_
+* Led a team of 5 developers, perform solution design, code review and team member training.
+* Continuously improve Server Framework(C++).
+* Led server side project of integration with business partner.
+* Led development of System Admin Tool using JavaScript React, Bootstrap, Java, DB2.
+* Led investigations and trouble-shootings of issues found in testing and production environments.
+* Participate in the rotation of 911 and server restart duties.
+* Participate in technical interviews and subsequent evaluation fo job applicants.
+
+_**Senior Software Developer - May 2015 to February 2020**_
+* Designed and implemented REEF(Realtime Event Exchange Framework, an cluster based internal pub&sub event exchange framework).
+* Initiated and led the game integration solution GDK(game development kit) which later became the standard of game integration. Implement core part of the solution using C++, Java, JNI, JavaScript.
+* Participated in many other server solutions.
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
@@ -71,7 +91,7 @@ Both server-side(Windows) and client-side(Windows) development of Warrior Epic(a
 * Implemented game instance dungeon system with C++ and Lua
 * Improved C++ based resource loading module that reduces network traffic by approx. 60%
 
-### [Shanda (NASDAQ:GAME)](http://www.shandagames.com/us-en/index.html), Shanghai, China
+### [Shanda (NASDAQ:SNDA)](http://www.shandagames.com/us-en/index.html), Shanghai, China
 _**Software Developer - July 2005 to March 2007**_
 
 Server-side development of SNDA Rich(an MMOG game) with C++ in Windows
