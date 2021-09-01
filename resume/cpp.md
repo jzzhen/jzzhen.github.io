@@ -47,20 +47,12 @@ _**Senior Software Developer - September 2012 to September 2013**_
 * Automated processes of deploying, configuration for more than 100 machines of distributed system
 * Enhanced performance, stability of user behavior statistic system using C++, Lua, Redis
 
-### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Software Developer - September 2010 to September 2012**_  
 
 * Developed a set of servers that defend security of  user's virtual property using C++ on Linux
 * Designed algorithm that discovers gaming cheating tools, which involves various technologies and tools (Python, lxml, HTTP, HTML, CSS, JavaScript, Firebug, Fiddler)
 * Maintained and monitored production environment using bash script on Linux
 
- 
-### Network Information Security Engineering Center at Beijing Institute of Technology
-_**Senior Software Developer - May 2009 to August 2010**_  
-
-* Led the designed and development of an Intrusion Detection System that detects intrusion based on data sniffed from network using C++, Python, MySQL, Redis on Linux.
-
-  
 ### [Possibility Space](http://www.linkedin.com/company/possibility-space), Beijing, China
 _**Software Developer - January 2008 to May 2009**_  
 
@@ -85,11 +77,3 @@ Bachelor's degree, Environmental Science
 [Nanjing University](http://www.nju.edu.cn/html/eng), Jiangsu, China  
 1999 - 2003
 
-## PATENTS
-
-* _JiangZhenzhen, ShenLiang. 2013. Methodology, system, and client-server implementation of password input approach using soft keyboard. CN201010134835.8_
-* _HuChanzhen, WangKunsheng, JiangZhenzhen. 2012. Detection Method For Periodic Subsequence In Network Data Stream. CN201110186370.5_
-* _JiangZhenzhen. 2013. A method to improve customer's experience and security of online shopping. CN201310055849.4_
-* _ZenXing, YangRonghui, JiangZhenzhen, ChengMoye, GuoXiao. 2013. A general and improved verification method to reduce success rate of phishing attack. CN201310035457.1_
-
-## REFERENCES AVAILABLE UPON REQUEST
