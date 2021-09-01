@@ -17,9 +17,9 @@
 
 ### [The Stars Group](https://www.starsgroup.com/), Toronto, Canada
 _**Technical Lead, Platform since May 2021 – Present**_
-* Server side end to end solutions delivery from requirements through to production deployment, include requirements review, system analysis, solution design, task break down, developer guiding, code review and release risk review.
-* Implement assigned architectural and platform tasks for projects pertaining Server Architecture and the wider shared technology roadmap
-* Carry out assigned R&D work to produce POCs needed to assist decision making on the adoption of new technologies and frameworks.
+* Server side end to end solutions delivery from requirements through to production.
+* Implemented assigned architectural and platform tasks for projects pertaining Server Architecture and the wider shared technology roadmap
+* Carry out R&D work to produce POCs needed to assist decision making on the adoption of new technologies and frameworks.
 * Participate in the rotation of 911 and server restart duties, led investigations and trouble-shootings of issues found.
 
 _**Team Lead, Platform Development - February 2020 to May 2021**_
