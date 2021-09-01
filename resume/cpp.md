@@ -17,26 +17,23 @@
 
 ### [The Stars Group](https://www.starsgroup.com/), Toronto, Canada
 _**Technical Lead, Platform since May 2021 – Present**_
-* Review given business requirements, perform system analysis and solution design, come up with detailed design documents of the changes needed to implement the solutions.
-* Actively participate in code reviews sharing and enforcing best practice to improve codebase quality efficiency and security.
-* Mentor and guide developers by providing quality coaching and ensuring proper execution of their tasks.
+* Server side end to end solutions delivery from requirements through to production deployment, include requirements review, system analysis, solution design, task break down, developer guiding, code review and release risk review.
 * Implement assigned architectural and platform tasks for projects pertaining Server Architecture and the wider shared technology roadmap
 * Carry out assigned R&D work to produce POCs needed to assist decision making on the adoption of new technologies and frameworks.
-* Participate in the rotation of 911 and server restart duties
+* Participate in the rotation of 911 and server restart duties, led investigations and trouble-shootings of issues found.
 
 _**Team Lead, Platform Development - February 2020 to May 2021**_
 * Led a team of 5 developers, perform solution design, code review and team member training.
 * Continuously improve Server Framework(C++).
 * Led server side project of integration with business partner.
 * Led development of System Admin Tool using JavaScript React, Bootstrap, Java, DB2.
-* Led investigations and trouble-shootings of issues found in testing and production environments.
-* Participate in the rotation of 911 and server restart duties.
+* Participate in the rotation of 911 and server restart duties, led investigations and trouble-shootings of issues found.
 * Participate in technical interviews and subsequent evaluation fo job applicants.
 
 _**Senior Software Developer - May 2015 to February 2020**_
 * Designed and implemented REEF(Realtime Event Exchange Framework, an cluster based internal pub&sub event exchange framework).
 * Initiated and led the game integration solution GDK(game development kit) which later became the standard of game integration. Implement core part of the solution using C++, Java, JNI and JavaScript.
-* Participated in many other server solutions.
+* Participated in many other servers' solution design and implement.
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
