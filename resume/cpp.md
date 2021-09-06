@@ -47,7 +47,7 @@ _**Senior Software Developer - May 2015 to February 2020**_
 * Designed and implemented REEF(Realtime Event Exchange Framework, an cluster based internal pub&sub event exchange framework).
 * Initiated and led the game integration solution GDK(game development kit) which later became the standard of game integration. Implement core part of the solution using C++, Java, JNI and JavaScript.
 * Participated in many other servers' solution design and implement.
-* Built tools mainly for: increasing QA productivity, easing dev environment setup, helping prototype building and speed up issue investigation using C++, Python, Javascript, Express, Electron, Sikuli, Perl and other technical skills.  
+* Developed a set of tools using C++, Python, Javascript, Express, Electron, Sikuli, Perl and other technical skills to increase QA productivity, ease dev environment setup, help prototype building and speed up issue investigation.  
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
@@ -72,7 +72,7 @@ _**Software Developer - January 2008 to May 2009**_
 ### [Shanda (NASDAQ:SNDA)](http://www.shandagames.com/us-en/index.html), Shanghai, China
 _**Software Developer - July 2005 to March 2007**_
 
-* Developed server-side multiple MMOG games using C++, Python on Windows and Linux.
+* Server-side development for MMOG games using C++, Python on Windows and Linux.
  
 ### JoyCity China, Shanghai, China
 _**C++ Programmer - September 2004 to July 2005**_
