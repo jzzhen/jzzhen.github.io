@@ -6,12 +6,25 @@
  * 647-980-7232
 
 ## SUMMARY
-* 15 years experience in C/C++ language programming
+* 17 years experience in C/C++ language programming
 * Strong background in developing large scale high performance distributed system
 * In-depth understanding of design patterns and software architecture principles
 * Years of full stack development experience
 * Hands-on skills in various languages such as JavaScript Java, Python, Lua
 * Superb analytical and problem-solving skills
+
+## TECHNICAL SKILLS
+
+**Languages:**
+C/C++, JavaScript, Java, Python, Lua, CSS, HTML  
+**Platforms:**
+Windows, Linux, Android  
+**Database:**
+MySQL, DB2, MongoDB, Redis, SQLite  
+**FrameWork/Libs:**
+React, Express, Boost, Django, Bootstrap, wxPython, Flask, Electron   
+**Tools:**
+Git, Visual Code, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, GCC, GDB, Fiddler, Sikuli 
 
 ## EXPERIENCE
 
@@ -34,6 +47,7 @@ _**Senior Software Developer - May 2015 to February 2020**_
 * Designed and implemented REEF(Realtime Event Exchange Framework, an cluster based internal pub&sub event exchange framework).
 * Initiated and led the game integration solution GDK(game development kit) which later became the standard of game integration. Implement core part of the solution using C++, Java, JNI and JavaScript.
 * Participated in many other servers' solution design and implement.
+* Built tools mainly for: increasing QA productivity, easing dev environment setup, helping prototype building and speed up issue investigation using C++, Python, Javascript, Express, Electron, Sikuli, Perl and other technical skills.  
 
 ### [Tencent Inc. (SEHK 700)](http://www.linkedin.com/company/tencent), Shenzhen, China
 _**Senior Software Developer - September 2012 to September 2013**_  
