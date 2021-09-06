@@ -88,3 +88,11 @@ Bachelor's degree, Environmental Science
 [Nanjing University](http://www.nju.edu.cn/html/eng), Jiangsu, China  
 1999 - 2003
 
+## PATENTS
+
+* _JiangZhenzhen, ShenLiang. 2013. Methodology, system, and client-server implementation of password input approach using soft keyboard. CN201010134835.8_
+* _HuChanzhen, WangKunsheng, JiangZhenzhen. 2012. Detection Method For Periodic Subsequence In Network Data Stream. CN201110186370.5_
+* _JiangZhenzhen. 2013. A method to improve customer's experience and security of online shopping. CN201310055849.4_
+* _ZenXing, YangRonghui, JiangZhenzhen, ChengMoye, GuoXiao. 2013. A general and improved verification method to reduce success rate of phishing attack. CN201310035457.1_
+
+
