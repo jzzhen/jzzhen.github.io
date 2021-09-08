@@ -9,7 +9,7 @@
 * Strong background in developing large scale high performance distributed system
 * In-depth understanding of design patterns and software architecture principles
 * Excellent C/C++ language programming skills
-* Hands-on skills in various languages such as JavaScript Java, Python, Lua
+* Hands-on skills in various languages such as JavaScript, Java, Python, Lua
 * Years of full stack development experience
 * Superb analytical and problem-solving skills
 
