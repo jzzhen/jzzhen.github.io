@@ -30,9 +30,9 @@ Git, Visual Code, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, G
 
 ### [The Stars Group](https://www.starsgroup.com/), Toronto, Canada
 _**Technical Lead, Platform since May 2021 – Present**_
-* Delivered server side end to end solutions from requirements through to production.
-* Implemented assigned architectural and platform tasks for projects pertaining Server Architecture and the wider shared technology roadmap
-* Carried out R&D work to produce POCs needed to assist decision making on the adoption of new technologies and frameworks.
+* Designed server side zoning solution for wallet separation and led the development.
+* Improved server framework in terms of wallet separation, metrics performance reporting and config automation.
+* Carried out Research of Apache ZooKeeper adoption and of sharing C++ infrastructure with Java by embedding JVM in C++.
 
 _**Team Lead, Platform Development - February 2020 to May 2021**_
 * Led a team of 5 developers, performed solution design, code review and team member training.
@@ -86,3 +86,9 @@ Master's degree, Computer Software Engineering
 Bachelor's degree, Environmental Science  
 [Nanjing University](http://www.nju.edu.cn/html/eng), Jiangsu, China  
 1999 - 2003
+
+## PATENTS
+* _JiangZhenzhen, ShenLiang. 2013. Methodology, system, and client-server implementation of password input approach using soft keyboard. CN201010134835.8_
+* _HuChanzhen, WangKunsheng, JiangZhenzhen. 2012. Detection Method For Periodic Subsequence In Network Data Stream. CN201110186370.5_
+* _JiangZhenzhen. 2013. A method to improve customer's experience and security of online shopping. CN201310055849.4_
+* _ZenXing, YangRonghui, JiangZhenzhen, ChengMoye, GuoXiao. 2013. A general and improved verification method to reduce success rate of phishing attack. CN201310035457.1_
