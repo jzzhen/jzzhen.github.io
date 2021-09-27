@@ -9,7 +9,7 @@
 * Strong background in developing large scale high performance distributed system
 * In-depth understanding of design patterns and software architecture principles
 * Excellent C/C++ language programming skills
-* Hands-on skills in various languages such as JavaScript, Java, Python, Lua
+* Hands-on skills in various languages such as Python, JavaScript, Java, Lua, Golang
 * Years of full stack development experience
 * Superb analytical and problem-solving skills
 
@@ -30,16 +30,14 @@ Git, Visual Code, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, G
 
 ### [The Stars Group](https://www.starsgroup.com/), Toronto, Canada
 _**Technical Lead, Platform since May 2021 – Present**_
-* Designed server side zoning solution for wallet separation and led the development.
-* Improved server framework in terms of wallet separation, metrics performance reporting and config automation.
-* Carried out Research of Apache ZooKeeper adoption and of sharing C++ infrastructure with Java by embedding JVM in C++.
+* Led design and development of server zoning project that achieved wallet separation between different integration partners.
+* Enhanced server framework that reduced efforts of function extensions, such as new wallet integration, performance metrics reporting, and configuration automation.
+* Led research of exposing c++ infrastructure function to Java code by embedding JVM in C++.
 
 _**Team Lead, Platform Development - February 2020 to May 2021**_
-* Led a team of 5 developers, performed solution design, code review and team member training.
-* Continuously improved Server Framework(C++).
+* Led a team of 5 developers, performed solution design and server framework(C++) improvement.  
 * Led server side project of integration with business partners.
-* Led development of System Admin Tool using JavaScript React, Bootstrap, Java, DB2.
-* Participated in the rotation of 911 and server restart duties, and led investigations when issues be found.
+* Led development of System Admin Tool using JavaScript React, Bootstrap, Java.
 * Participated in technical interviews and subsequent evaluation fo job applicants.
 
 _**Senior Software Developer - May 2015 to February 2020**_
@@ -52,7 +50,6 @@ _**Senior Software Developer - May 2015 to February 2020**_
 _**Senior Software Developer - September 2012 to September 2013**_  
 
 * Led development of Fraud Prevention service that support more than 10 million concurrent game players on Tencent Open Platform
-* Collaborated with IM-Department(QQ account) and Tencent Security Center that improved security of user's virtual property
 * Implemented low latency status query service using C++ on Linux, which performs 100,000 queries/sec with single machine
 * Automated processes of deploying, configuration for more than 100 machines of distributed system
 * Enhanced performance, stability of user behavior statistic system using C++, Lua, Redis
