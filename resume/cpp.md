@@ -32,7 +32,7 @@ Git, Visual Code, SVN, Vim, Eclipse, Visual Studio, Source Insight, SlickEdit, G
 _**Technical Lead, Platform since May 2021 – Present**_
 * Led design and development of server zoning project that achieved wallet separation between different integration partners.
 * Enhanced server framework that reduced efforts of function extensions, such as new wallet integration, performance metrics reporting, and configuration automation.
-* Led research of exposing c++ infrastructure function to Java code by embedding JVM in C++.
+* Led research of exposing C++ infrastructure function to Java code by embedding JVM in C++.
 
 _**Team Lead, Platform Development - February 2020 to May 2021**_
 * Led a team of 5 developers, performed solution design and server framework(C++) improvement.  
