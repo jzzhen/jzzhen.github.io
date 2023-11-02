@@ -23,7 +23,7 @@ Windows, Linux, Android
 **Database:**
 MySQL, DB2, MongoDB, Redis, SQLite  
 **FrameWork/Libs:**
-React, Express, Boost, Django, Bootstrap, wxPython, Flask, Electron
+React, Express, Boost, Django, Bootstrap, wxPython, Flask, Electron  
 **Tools:**
 Git, Visual Code, SVN, Visual Studio, GCC, GDB, Fiddler, Sikuli
 
